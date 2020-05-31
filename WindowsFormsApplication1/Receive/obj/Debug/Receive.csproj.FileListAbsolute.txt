@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\bin\Debug\Receive.exe.config
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\bin\Debug\Receive.exe
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\bin\Debug\Receive.pdb
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\bin\Debug\Object.dll
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\bin\Debug\Object.pdb
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\obj\Debug\Receive.Form1.resources
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\obj\Debug\Receive.Properties.Resources.resources
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\obj\Debug\Receive.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\obj\Debug\Receive.exe
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Receive\obj\Debug\Receive.pdb

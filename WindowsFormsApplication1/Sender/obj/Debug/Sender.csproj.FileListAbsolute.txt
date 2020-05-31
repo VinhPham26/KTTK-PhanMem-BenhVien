@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\bin\Debug\Sender.exe.config
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\bin\Debug\Sender.exe
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\bin\Debug\Sender.pdb
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\bin\Debug\Object.dll
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\bin\Debug\Object.pdb
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\obj\Debug\Sender.Form1.resources
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\obj\Debug\Sender.Properties.Resources.resources
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\obj\Debug\Sender.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\obj\Debug\Sender.exe
+C:\Users\Student\Desktop\New folder\WindowsFormsApplication1\Sender\obj\Debug\Sender.pdb
